@@ -3,9 +3,9 @@ VANTIQ使用了TensorFlow神经网路的算法做物体识别，并通过Extensi
 ## 环境需求说明
 * 硬件需求：X64架构CPU的PC，带摄像头
 * 软件需求：  
-** VANTIQ Extension Source: https://github.com/Vantiq/vantiq-extension-sources  
-** Windows 7/8/8.1/10 X64版本的操作系统  
-** OpenCV计算机视觉库  
++ VANTIQ Extension Source: https://github.com/Vantiq/vantiq-extension-sources  
++ Windows 7/8/8.1/10 X64版本的操作系统  
++ OpenCV计算机视觉库  
 ## Windows系统环境准备(Win10)
 ### 安装JAVA JDK
 ### 配置JAVA环境变量
