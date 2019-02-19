@@ -1,0 +1,2 @@
+# VANTIQ物体识别SOP
+VANTIQ使用了TensorFlow神经网路的算法做物体识别，并通过Extension Source的方式对接VANTIQ开发平台，本文主要针对VANTIQ Extension Souce objectRecognitionSource这个外部数据源和VANTIQ开发平台整合步骤和需要的事项做说明。
